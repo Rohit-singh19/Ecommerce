@@ -46,3 +46,11 @@ _fill each filed with your info respectively_
 [<img align="left" alt="Rohit_Singh_19 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Rohit Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohit Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<!-- [website]: https://codeSTACKr.com -->
+<!-- [course]: http://vsCodeHero.com -->****
+
+[twitter]: https://twitter.com/Rohit_Singh_19
+[youtube]: https://www.youtube.com/c/CodingBuddies
+[instagram]: https://www.instagram.com/rohit_singh_1911/
+[linkedin]: https://www.linkedin.com/in/rohtisingh19/
