@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+
+
+/frontend/.env
+
+/backend/config/config.env
